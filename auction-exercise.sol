@@ -3,17 +3,8 @@ pragma solidity ^0.8.4;
 // SPDX-License-Identifier: GPL-3.0
 
 /*
-It is time to test your skills and the knowledge you have gained going through this course from start to finish!
 
-Your mission is to write a decentralized auction DApplication which can at the minimum have the following functionality.
-As long as you meet the minimum required functionality then you have passed this course with flying colors, however should you choose to exceed
-the minimum and continue to expand upon the Auction then you are truly becoming a defi super star and I would love to see what you 
-come up with so please share it in the discord! 
-
-If you fall short - do not worry, take your time, ask questions in our Discord, do some research, and go as far as you can. And when you 
-are ready go to the solution video and we can go through it all together as always. 
-
-Final Exercise: Create an Auction DApplication (The Decentralized Ebay)
+Project - Auction DApplication (The Decentralized Ebay)
 
 1. You must create a contract called auction which contains state variables to keep track of the beneficiary (auctioneer), 
 the highest bidder, the auction end time, and the highest bid. 
